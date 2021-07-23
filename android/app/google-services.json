@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717245448168",
+    "project_id": "smschat-5057b",
+    "storage_bucket": "smschat-5057b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717245448168:android:4fe639d4714716fe46ae5d",
+        "android_client_info": {
+          "package_name": "com.sms.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717245448168-e3tp0jjt16ghoev42vsnd4m1furg8806.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZffX8X7413NHyCXWUoQGUa6gLpt715ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717245448168-e3tp0jjt16ghoev42vsnd4m1furg8806.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
